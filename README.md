@@ -15,9 +15,6 @@ I specialize in transforming complex information into actionable insights and bu
 - Building beautiful and accessible web interfaces
 - Real-world use of AI in products
 
-## 📫 How to Reach Me
-- Email: `nexgen.luciferr27@gmail.com`
-
 <br />
 
 <img width="100%" height="443" alt="image" src="https://github.com/user-attachments/assets/44b0df4c-86bf-48c1-8da7-bb295981f522" />
