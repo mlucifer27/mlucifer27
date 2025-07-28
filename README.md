@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate tech professional with over **12 years of experience** as a Software Engineer, with a strong focus on **data engineering, analytics and full-stack development**.
+I'm a passionate tech professional with a strong focus on **data engineering, analytics and full-stack development**.
 I specialize in transforming complex information into actionable insights and building innovative, reliable software solutions.
 
 <img width="100%" height="793" alt="image" src="https://github.com/user-attachments/assets/ea32bb89-8487-452d-9544-c80d81552e03" />
